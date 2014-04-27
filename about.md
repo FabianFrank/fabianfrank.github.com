@@ -6,7 +6,7 @@ description: ""
 {% include JB/setup %}
 
 <div style="float: right">
-    <img width="73" height="73" src="https://pbs.twimg.com/profile_images/2433760028/v78s2keppeyxiwbh4ug8_bigger.png" alt="Fabian">
+    <img width="73" height="73" src="/assets/fabian.png" alt="Fabian">
 </div>
 
 I am an engineer that focuses on software and currently lives in San Jose, CA. I
