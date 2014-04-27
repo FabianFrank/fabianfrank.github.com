@@ -17,6 +17,7 @@ You can check out my other profiles on the web:
 
 * [https://github.com/FabianFrank](https://github.com/FabianFrank)  
 * [https://twitter.com/Fabian_Frank](https://twitter.com/Fabian_Frank)  
+* [http://www.slideshare.net/FabianFrankDe](http://www.slideshare.net/FabianFrankDe)
 * [https://www.facebook.com/FabianFrankDe](https://www.facebook.com/FabianFrankDe)  
 * [https://www.linkedin.com/in/fabianfrank87](http://www.linkedin.com/in/fabianfrank87)  
 * [https://www.xing.com/profile/Fabian_Frank12](https://www.xing.com/profile/Fabian_Frank12)  

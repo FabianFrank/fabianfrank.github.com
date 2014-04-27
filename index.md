@@ -18,5 +18,8 @@ tagline: What doesn't fit in a tweet
     </div>
     <div class="entry-content">{{ content }}</div>
   </div>
+  {% if forloop.last == false %}
+  <hr>
+  {% endif %}
 {% endfor %}
 
