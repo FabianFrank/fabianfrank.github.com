@@ -21,4 +21,4 @@ You can check out my other profiles on the web:
 * [https://www.facebook.com/FabianFrankDe](https://www.facebook.com/FabianFrankDe)  
 * [https://www.linkedin.com/in/fabianfrank87](http://www.linkedin.com/in/fabianfrank87)  
 * [https://www.xing.com/profile/Fabian_Frank12](https://www.xing.com/profile/Fabian_Frank12)  
-* [https://plus.google.com/+FabianFrank/](https://plus.google.com/+FabianFrank/)
+* <a href="https://plus.google.com/+FabianFrank/" rel="me">https://plus.google.com/+FabianFrank/</a>
