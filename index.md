@@ -14,7 +14,7 @@ tagline: What doesn't fit in a tweet
     <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
     </h1>
     <div class="date">
-      <span>{{ post.date | date_to_long_string }}</span>
+      <span><a href="https://plus.google.com/+FabianFrank?rel=author" rel="author">Fabian Frank</a> on {{ post.date | date_to_long_string }}</span>
     </div>
     <div class="entry-content">{{ content }}</div>
   </div>
