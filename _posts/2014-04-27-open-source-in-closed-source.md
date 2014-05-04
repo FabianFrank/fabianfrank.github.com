@@ -62,3 +62,6 @@ fail to admit how big its part is in our own most recent proprietary works.
 What would have you done if you were in my position? What would you do if the
 violating company doesn't respond or will state that they won't fix the problem?
 Let me know your thoughts in the comments.
+
+<b>Update:</b> The company has responded to me and told me they will address the
+issue in their next sprint. I'm excited to see what happens.
